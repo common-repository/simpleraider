@@ -1,0 +1,182 @@
+.sr_item_tooltip {
+  position: absolute;
+  display: none;
+  background-color: #FFFFFF;
+}
+
+.sr_notice_tooltip {
+  position: absolute;
+  display: none;
+  background-color: #FFFFFF;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#RAID_HEADER label{
+	width: 12em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+}
+
+#SR_CONTENT label{
+	width: 12em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block;
+}
+
+.RAID_STATUS_WAITING_LIST
+{
+	background-color: #e7e7e7;
+	color: black;
+	font-weight: bold;
+}
+
+.RAID_STATUS_SIGNED_ON
+{
+	background-color: #dadada;
+	color: black;
+	font-weight: bold;
+}
+
+.sr_form_dkp_management{
+	border:1px solid black;
+	padding: 10px;
+}
+
+#SR_NAVIGATION {
+	width: 95%;
+	background-color: #e7e7e7;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	font-size: 12pt;
+	color: black;
+}
+
+#SR_NAVIGATION li{
+	display:inline;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 11pt;
+	color: black;
+	border: 1px solid black;
+}
+
+#SR_NAVIGATION a{
+	text-decoration: none;
+	color: black;
+}
+
+.SR_RAID_DETAIL_CHAR_ENTRY{
+	padding: 2px;
+	font-size: 11pt;
+	color: black;
+	text-decoration: none;
+}
+
+.SR_RAID_DETAIL_CHAR_ENTRY a:link, .SR_RAID_DETAIL_CHAR_ENTRY a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+.TABLE_RAID_ROOSTER {
+	font-size: 9pt;
+	display: block;
+	float:left;
+	margin: 5px;
+	background-color: #f3f2f2;
+	min-height:200px;
+	min-width: 150px;
+}
+
+.TABLE_RAID_ROOSTER  h1{
+	font-size: 10pt;
+	background-color: #e0e0e0;
+	margin: 0;
+	padding: 0px;
+	padding: 5px;
+}
+
+.TABLE_OVERVIEW_ROOSTER{
+	font-size: 9pt;
+	display: block;
+	float:left;
+	margin: 5px;
+	background-color: #f3f2f2;
+	min-height:350px;
+	min-width: 150px;
+}
+
+.TABLE_OVERVIEW_ROOSTER  h1{
+	font-size: 10pt;
+	background-color: #e0e0e0;
+	margin: 0;
+	padding: 0px;
+	padding: 5px;
+}
+
+
+
+#RAID_LOGON_CONTAINER{
+	display: block;
+	margin-top: 50px;
+}
+
+.STYLED_TABLE{
+	width: 100%
+}
+
+#SR_NAVIGATION li{
+	horizontal-align: right;
+	font-size: 12pt;
+	font-weight: bold;
+	color:white;
+}
+
+.STYLED_TABLE TH {
+	background-color:#e7e7e7;
+	horizontal-align: right;
+	padding: 15px;
+	font-size: 12pt;
+	font-weight: bold;
+	color:black;
+}
+
+.STYLED_TABLE_TD_1 {
+	horizontal-align: center;
+	vertical-align: center;
+	padding: 15px;
+	font-weight: bold;
+	font-size: 11pt;
+	background-color: #1F1F1F;
+}
+
+.STYLED_TABLE_TD_2 {
+	horizontal-align: center;
+	vertical-align: center;
+	padding: 15px;
+	font-weight: bold;
+	font-size: 11pt;
+	background-color: #373535;
+}
+/*
+#SR_RECENT_RAIDS_CONTAINER a,#SR_RECENT_RAIDS_CONTAINER a:visited{
+	color: black;
+	text-decoration: none;
+}*/
+
+/*
+.li_switch_1 h3{
+	background-color: #999999;
+	padding-left: 5px;
+}
+
+.li_switch_2 h3{
+	background-color: #666666;
+	padding-left: 5px;
+} */
